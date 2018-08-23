@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 2) Escrever um programa para calcular o volume de uma lata de refrigerante, 
-lembre-se que a fórmula é: VOLUME = PI * R * R * altura, onde PI = 3.14159. 
+lembre-se que a fÃ³rmula Ã©: VOLUME = PI * R * R * altura, onde PI = 3.14159. 
 */
 
 int main ()
