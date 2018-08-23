@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 1) Escreva um programa para ler a quantidade de cavalos de uma fazenda e 
-escreva quantas ferraduras s„o necess·rias para equipar todos os cavalos da 
+escreva quantas ferraduras s√£o necess√°rias para equipar todos os cavalos da 
 fazenda. 
 */	
 
