@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
-8) Uma f·brica de camisetas produz os tamanhos pequeno, mÈdio e grande, cada uma 
+8) Uma f√°brica de camisetas produz os tamanhos pequeno, m√©dio e grande, cada uma 
 sendo vendida respectivamente por 10, 15, 18 reais. Construa um programa em que 
-o usu·rio forneÁa a quantidade de camisetas pequenas, mÈdias e grandes vendidas. 
+o usu√°rio forne√ßa a quantidade de camisetas pequenas, m√©dias e grandes vendidas. 
 Informe o valor a ser cobrado. 
 */
 
