@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
-3) Elaborar um programa que leia a base e a altura de tri‚ngulo e apresente a ·rea
- deste tri‚ngulo.  
+3) Elaborar um programa que leia a base e a altura de tri√¢ngulo e apresente a √°rea
+ deste tri√¢ngulo.  
 */
 
 int main ()
