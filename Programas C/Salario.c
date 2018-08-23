@@ -1,13 +1,13 @@
 #include <stdio.h>
 /*
-7) Uma empresa tem para um determinado funcion·rio uma ficha contendo o n˙mero de
+7) Uma empresa tem para um determinado funcion√°rio uma ficha contendo o n√∫mero de
 horas trabalhadas e o n0 de dependentes. 
 Considerando que: a) A empresa paga 12 reais por hora e 40 reais por dependentes,
-isto È o sal·rio bruto. b) Sobre o sal·rio bruto s„o feitos descontos de 8,5% 
-para o INSS e 5% para IR. FaÁa um programa para ler o n˙mero de horas trabalhadas
-e n˙mero de dependentes de um funcion·rio. ApÛs a leitura, escreva qual o sal·rio
+isto √© o sal√°rio bruto. b) Sobre o sal√°rio bruto s√£o feitos descontos de 8,5% 
+para o INSS e 5% para IR. Fa√ßa um programa para ler o n√∫mero de horas trabalhadas
+e n√∫mero de dependentes de um funcion√°rio. Ap√≥s a leitura, escreva qual o sal√°rio
 bruto, os valores descontados para cada tipo de imposto e finalmente qual o 
-sal·rio lÌquido do funcion·rio.  
+sal√°rio l√≠quido do funcion√°rio.  
  
  */
  
