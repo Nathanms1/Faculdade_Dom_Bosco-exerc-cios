@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
-9) Escrever um programa para ler o número de eleitores de um município, o número 
-de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um 
-representa em relação ao total de eleitores. 
+9) Escrever um programa para ler o nÃºmero de eleitores de um municÃ­pio, o nÃºmero 
+de votos brancos, nulos e vÃ¡lidos. Calcular e escrever o percentual que cada um 
+representa em relaÃ§Ã£o ao total de eleitores. 
 */ 
 
 	int main ()
