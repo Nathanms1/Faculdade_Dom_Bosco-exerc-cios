@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
 4) Escrever um programa que leia o ano de nascimento de uma pessoa. Escrever a 
-sua idade. Considere para o c·lculo o ano atual. 
+sua idade. Considere para o c√°lculo o ano atual. 
 */
 
 int main ()
