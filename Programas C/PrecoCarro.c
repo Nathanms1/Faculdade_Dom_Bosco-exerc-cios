@@ -1,9 +1,9 @@
 #include <stdio.h>
 /*
-6) O preÁo de um automÛvel È calculado pela soma do preÁo de f·brica com o preÁo 
-dos impostos (45% do preÁo de f·brica) e a percentagem do revendedor 
-(28% do preÁo de f·brica). FaÁa um programa que leia o preÁo de f·brica e 
-imprima o seu preÁo final. 
+6) O pre√ßo de um autom√≥vel √© calculado pela soma do pre√ßo de f√°brica com o pre√ßo 
+dos impostos (45% do pre√ßo de f√°brica) e a percentagem do revendedor 
+(28% do pre√ßo de f√°brica). Fa√ßa um programa que leia o pre√ßo de f√°brica e 
+imprima o seu pre√ßo final. 
 */
 
 	int main ()
