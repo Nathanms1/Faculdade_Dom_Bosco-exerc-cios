@@ -1,0 +1,18 @@
+*******************************************************************************/
+#include <stdio.h>
+
+int main()
+{
+    float numlar, prec_1,prec_2; 
+    printf("Laranjas compradas:");
+        scanf("%f",&numlar);
+    if(numlar<12){
+        prec_1=numlar*0.50;
+        printf("Preco total:%.2f\n",prec_1);
+    }else{
+        prec_2=numlar*0.35;
+        printf("Preco total:%.2f\n",prec_2);
+    }
+
+    system("pause");
+}
